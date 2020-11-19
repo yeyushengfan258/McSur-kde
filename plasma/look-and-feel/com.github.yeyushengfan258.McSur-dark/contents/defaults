@@ -2,19 +2,19 @@
 widgetStyle=kvantum
 
 [kdeglobals][General]
-ColorScheme=PlasmaSur-dark
+ColorScheme=McSurDark
 
 [kdeglobals][Icons]
 Theme=BigSur
 
 [plasmarc][Theme]
-name=PlasmaSur-dark
+name=McSur-dark
 
 [kwinrc][org.kde.kdecoration2]
 ButtonsOnLeft=XAI
 ButtonsOnRight=
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__PlasmaSur-dark
+theme=__aurorae__svg__McSur-dark
 
 [kcminputrc][Mouse]
 cursorTheme=breeze_cursors

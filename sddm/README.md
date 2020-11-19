@@ -1,5 +1,5 @@
 
-PlasmaSur-dark sddm theme for KDE Plasma desktop.
+McSur-dark sddm theme for KDE Plasma desktop.
 
 ## Installation
 

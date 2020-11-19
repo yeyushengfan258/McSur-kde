@@ -1,6 +1,6 @@
-## PlasmaSur-dark KDE Theme
+## McSur-dark KDE Theme
 
-PlasmaSur-dark kde is a light clean theme for KDE Plasma desktop.
+McSur-dark kde is a light clean theme for KDE Plasma desktop.
 
 In this repository you'll find:
 
