@@ -13,7 +13,7 @@
    version="1.0"
    id="svg414"
    sodipodi:docname="button.svg"
-   inkscape:version="0.92.5 (6c0c36ef5a, 2020-05-15, custom)">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07, custom)">
   <metadata
      id="metadata418">
     <rdf:RDF>
@@ -36,21 +36,22 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="949"
+     inkscape:window-height="992"
      id="namedview416"
      showgrid="true"
-     inkscape:zoom="5.6568543"
-     inkscape:cx="141.52876"
-     inkscape:cy="68.701088"
+     inkscape:zoom="8.0000001"
+     inkscape:cx="134.35212"
+     inkscape:cy="71.464304"
      inkscape:window-x="0"
-     inkscape:window-y="36"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg414"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
      inkscape:bbox-paths="true"
      inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:snap-nodes="false">
+     inkscape:snap-nodes="false"
+     inkscape:document-rotation="0">
     <inkscape:grid
        type="xygrid"
        id="grid1331" />
@@ -166,7 +167,7 @@
      x="91"
      id="normal-hint-compose-over-border" />
   <path
-     style="color:#3daee6;opacity:0.25;fill:#000000;stroke-width:0.70710599;fill-opacity:1"
+     style="color:#3daee6;opacity:0.25;fill:#ffffff;stroke-width:0.70710599;fill-opacity:1"
      inkscape:connector-curvature="0"
      d="M 110.00003,72.00005 V 96 h 48 V 72.00005 Z"
      class="ColorScheme-Highlight"
@@ -176,7 +177,7 @@
      id="hover-topleft"
      style="opacity:1">
     <path
-       style="color:#3daee6;opacity:0.25;fill:#000000;stroke-width:1.25000119;fill-opacity:1"
+       style="color:#3daee6;opacity:0.25;fill:#ffffff;stroke-width:1.25000119;fill-opacity:1"
        d="m 190.14,824.86 c -2.77,0 -5,2.23 -5,5 h 5 z"
        id="path5201"
        inkscape:connector-curvature="0" />
@@ -196,7 +197,7 @@
      id="hover-top"
      style="opacity:1">
     <path
-       style="color:#3daee6;opacity:0.25;fill:#000000;fill-opacity:1;stroke-width:1.11803782"
+       style="color:#3daee6;opacity:0.25;fill:#ffffff;fill-opacity:1;stroke-width:1.11803782"
        inkscape:connector-curvature="0"
        id="path13-26"
        d="M 190.14,824.85997 V 829.86 h 131 v -5.00003 z"
