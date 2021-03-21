@@ -8,7 +8,7 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="panel-background.svg"
    id="svg200"
    viewBox="0 0 173 56"
@@ -35,9 +35,9 @@
      inkscape:window-maximized="1"
      inkscape:window-y="38"
      inkscape:window-x="0"
-     inkscape:cy="13.300642"
-     inkscape:cx="54.930139"
-     inkscape:zoom="28.51734"
+     inkscape:cy="25.476934"
+     inkscape:cx="48.864083"
+     inkscape:zoom="10.082402"
      showgrid="true"
      id="namedview202"
      inkscape:window-height="938"
@@ -207,7 +207,7 @@
     <rect
        class="ColorScheme-Background"
        transform="matrix(0,-1,-1,0,0,0)"
-       style="color:#eff0f1;opacity:0.1;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:1.1547"
+       style="color:#eff0f1;opacity:0.2;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:1.1547"
        id="rect4152"
        width="8.0000181"
        height="32"
@@ -230,7 +230,7 @@
        inkscape:connector-curvature="0"
        id="rect4159"
        d="m 29,910.36218 c -8.863965,0 -16,7.13604 -16,16 h 16 z"
-       style="opacity:0.1;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:2.66667"
+       style="opacity:0.2;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:2.66667"
        sodipodi:nodetypes="cccc" />
     <path
        id="path71"
@@ -239,7 +239,7 @@
        transform="translate(-31,904.36218)" />
   </g>
   <rect
-     style="color:#eff0f1;opacity:0.1;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:0.3750031"
+     style="color:#eff0f1;opacity:0.2;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:0.3750031"
      id="center"
      width="12.000099"
      height="12.000099"

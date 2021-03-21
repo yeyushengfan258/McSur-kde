@@ -5,9 +5,40 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg17"
-   viewBox="0 0 54 32"
-   version="1.1">
+   viewBox="0 0 32 32"
+   version="1.1"
+   sodipodi:docname="edit.svg"
+   width="32"
+   height="32"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="938"
+     id="namedview12"
+     showgrid="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:zoom="7.5359251"
+     inkscape:cx="41.553985"
+     inkscape:cy="38.70137"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg17">
+    <inkscape:grid
+       type="xygrid"
+       id="grid837" />
+  </sodipodi:namedview>
   <metadata
      id="metadata19">
     <rdf:RDF>
@@ -31,25 +62,27 @@
   <g
      fill="currentColor"
      class="ColorScheme-NegativeText"
-     id="22-22-edit-delete">
+     id="22-22-edit-delete"
+     transform="translate(-22)">
     <path
        id="path7"
        fill="none"
-       d="m0 10v22h22v-22z" />
+       d="M 0,10 V 32 H 22 V 10 Z" />
     <path
        id="path9"
-       d="m16.657 15.343a8 8 0 0 0-11.314 0 8 8 0 0 0 0 11.314 8 8 0 0 0 11.314 0 8 8 0 0 0 0-11.314zm-1.4142 1.4142a6 6 0 0 1 0.64772 7.7188l-8.3665-8.3665a6 6 0 0 1 7.7188 0.64772zm-9.133 0.76649 8.3665 8.3665a6 6 0 0 1-7.7188-0.64772 6 6 0 0 1-0.64772-7.7188z" />
+       d="m 16.657,15.343 a 8,8 0 0 0 -11.314,0 8,8 0 0 0 0,11.314 8,8 0 0 0 11.314,0 8,8 0 0 0 0,-11.314 z m -1.4142,1.4142 a 6,6 0 0 1 0.64772,7.7188 l -8.3665,-8.3665 a 6,6 0 0 1 7.7188,0.64772 z m -9.133,0.76649 8.3665,8.3665 A 6,6 0 0 1 6.7575,25.24247 6,6 0 0 1 6.10978,17.52367 Z" />
   </g>
   <g
      fill="currentColor"
      class="ColorScheme-NegativeText"
-     id="edit-delete">
+     id="edit-delete"
+     transform="translate(-22)">
     <path
        id="path12"
        fill="none"
-       d="m22 0v32h32v-32z" />
+       d="M 22,0 V 32 H 54 V 0 Z" />
     <path
        id="path14"
-       d="m46.485 7.5147a12 12 0 0 0-16.971 0 12 12 0 0 0 0 16.971 12 12 0 0 0 16.971 0 12 12 0 0 0 0-16.971zm-1.428 1.4004a10 10 0 0 1 0.01381 0.01381 10 10 0 0 1 0.6712 13.399l-14.07-14.07a10 10 0 0 1 13.385 0.65739zm-14.8 0.75682 14.07 14.07a10 10 0 0 1-13.399-0.6712 10 10 0 0 1-0.6712-13.399z" />
+       d="m 46.485,7.5147 a 12,12 0 0 0 -16.971,0 12,12 0 0 0 0,16.971 12,12 0 0 0 16.971,0 12,12 0 0 0 0,-16.971 z m -1.428,1.4004 a 10,10 0 0 1 0.01381,0.01381 10,10 0 0 1 0.6712,13.399 l -14.07,-14.07 a 10,10 0 0 1 13.385,0.65739 z m -14.8,0.75682 14.07,14.07 a 10,10 0 0 1 -13.399,-0.6712 10,10 0 0 1 -0.6712,-13.399 z" />
   </g>
 </svg>

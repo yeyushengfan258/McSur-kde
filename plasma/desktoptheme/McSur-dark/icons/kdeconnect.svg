@@ -5,9 +5,38 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg30"
    viewBox="0 0 32 32"
-   version="1.1">
+   version="1.1"
+   sodipodi:docname="kdeconnect.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="938"
+     id="namedview20"
+     showgrid="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:zoom="17.125242"
+     inkscape:cx="42.246271"
+     inkscape:cy="12.867241"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg30">
+    <inkscape:grid
+       type="xygrid"
+       id="grid845" />
+  </sodipodi:namedview>
   <metadata
      id="metadata34">
     <rdf:RDF>
@@ -16,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -58,11 +87,11 @@
        x="355" />
     <rect
        id="rect12"
-       opacity=".5"
-       ry=".49997"
-       height=".99994"
+       opacity="0.5"
+       ry="0.49996999"
+       height="0.99993998"
        width="6"
-       y="552.36"
+       y="551.35999"
        x="363" />
     <path
        id="path14"
@@ -74,11 +103,12 @@
        ry="1"
        height="2"
        width="6"
-       y="535.36"
+       y="536.35999"
        x="363" />
     <path
        id="path18"
-       d="m362 534.36c-1.662 0-3 1.338-3 3v16c0 1.662 1.338 3 3 3h8c1.662 0 3-1.338 3-3v-16c0-1.662-1.338-3-3-3zm0 2h8c0.55399 0 1 0.44601 1 1v16c0 0.55399-0.44601 1-1 1h-8c-0.55399 0-1-0.44601-1-1v-16c0-0.55399 0.44601-1 1-1z" />
+       d="m 362,535.36 c -1.662,0 -3,1.338 -3,3 v 14 c 0,1.662 1.338,3 3,3 h 8 c 1.662,0 3,-1.338 3,-3 v -14 c 0,-1.662 -1.338,-3 -3,-3 z m 0,2 h 8 c 0.55399,0 1,0.44601 1,1 v 14 c 0,0.55399 -0.44601,1 -1,1 h -8 c -0.55399,0 -1,-0.44601 -1,-1 v -14 c 0,-0.55399 0.44601,-1 1,-1 z"
+       sodipodi:nodetypes="ssssssssssssssssss" />
   </g>
   <g
      fill="currentColor"

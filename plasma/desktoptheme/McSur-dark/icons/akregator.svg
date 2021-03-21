@@ -5,9 +5,39 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg17"
-   viewBox="0 0 54 32"
-   version="1.1">
+   viewBox="0 0 32 32"
+   version="1.1"
+   sodipodi:docname="akregator.svg"
+   width="32"
+   height="32"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="938"
+     id="namedview12"
+     showgrid="true"
+     inkscape:zoom="15.07185"
+     inkscape:cx="6.4845641"
+     inkscape:cy="15.796091"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg17">
+    <inkscape:grid
+       type="xygrid"
+       id="grid837" />
+  </sodipodi:namedview>
   <metadata
      id="metadata19">
     <rdf:RDF>
@@ -27,27 +57,29 @@
        id="current-color-scheme"> .ColorScheme-Text { color:#363636; } </style>
   </defs>
   <g
-     id="22-22-akregator">
+     id="22-22-akregator"
+     transform="translate(-22)">
     <path
        id="path7"
        fill="none"
-       d="m0 10v22h22v-22h-22z" />
+       d="M 0,10 V 32 H 22 V 10 Z" />
     <path
        id="path9"
        fill="currentColor"
-       d="m3 13v3a13 13 0 0 1 13 13h3a16 16 0 0 0-16-16zm0 6v3a7 7 0 0 1 7 7h3a10 10 0 0 0-10-10zm2 6a2 2 0 0 0-2 2 2 2 0 0 0 2 2 2 2 0 0 0 2-2 2 2 0 0 0-2-2z"
+       d="m 3,13 v 3 a 13,13 0 0 1 13,13 h 3 A 16,16 0 0 0 3,13 Z m 0,6 v 3 a 7,7 0 0 1 7,7 h 3 A 10,10 0 0 0 3,19 Z m 2,6 a 2,2 0 0 0 -2,2 2,2 0 0 0 2,2 2,2 0 0 0 2,-2 2,2 0 0 0 -2,-2 z"
        class="ColorScheme-Text" />
   </g>
   <g
-     id="akregator">
+     id="akregator"
+     transform="translate(-22)">
     <path
        id="path12"
-       d="m26 4v4a20 20 0 0 1 20 20h4a24 24 0 0 0-24-24zm0 8v4a12 12 0 0 1 12 12h4a16 16 0 0 0-16-16zm3.5 9a3.5 3.5 0 0 0-3.5 3.5 3.5 3.5 0 0 0 3.5 3.5 3.5 3.5 0 0 0 3.5-3.5 3.5 3.5 0 0 0-3.5-3.5z"
+       d="m 26,4 v 4 a 20,20 0 0 1 20,20 h 4 A 24,24 0 0 0 26,4 Z m 0,8 v 4 a 12,12 0 0 1 12,12 h 4 A 16,16 0 0 0 26,12 Z m 3.5,9 A 3.5,3.5 0 0 0 26,24.5 3.5,3.5 0 0 0 29.5,28 3.5,3.5 0 0 0 33,24.5 3.5,3.5 0 0 0 29.5,21 Z"
        fill="currentColor"
        class="ColorScheme-Text" />
     <path
        id="path14"
        fill="none"
-       d="m22 0v32h32v-32h-32z" />
+       d="M 22,0 V 32 H 54 V 0 Z" />
   </g>
 </svg>

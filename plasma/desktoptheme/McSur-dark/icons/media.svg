@@ -6,11 +6,40 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
-   width="76"
-   height="32"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22"
+   height="22"
    version="1.1"
-   viewBox="0 0 20.108389 8.4667"
-   id="svg53">
+   viewBox="0 0 5.8208494 5.8208562"
+   id="svg53"
+   sodipodi:docname="media.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="938"
+     id="namedview36"
+     showgrid="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:zoom="7.5723684"
+     inkscape:cx="-7.9369546"
+     inkscape:cy="17.049974"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg53">
+    <inkscape:grid
+       type="xygrid"
+       id="grid861" />
+  </sodipodi:namedview>
   <metadata
      id="metadata57">
     <rdf:RDF>
@@ -31,7 +60,7 @@
   </defs>
   <g
      id="media-playback-paused"
-     transform="matrix(0.26458,0,0,0.26458,0.52914934,1.3229139)">
+     transform="matrix(0.26458,0,0,0.26458,-6.5457726,7.3545454e-7)">
     <rect
        x="0.00021085"
        y="3.0110999e-05"
@@ -47,7 +76,7 @@
   </g>
   <g
      id="media-playback-playing"
-     transform="matrix(0.26458,0,0,0.26458,7.0776124,7.4082619)">
+     transform="matrix(0.26458,0,0,0.26458,0.0026905,6.0853487)">
     <rect
        x="0.00021085"
        y="-23"
@@ -64,7 +93,7 @@
   </g>
   <g
      id="media-playback-stopped"
-     transform="matrix(0.26458,0,0,0.26458,0.92629185,8.2020019)">
+     transform="matrix(0.26458,0,0,0.26458,-6.1486301,6.8790887)">
     <rect
        x="48"
        y="-26"
@@ -81,7 +110,7 @@
   </g>
   <g
      id="media-record"
-     transform="matrix(0.26458,0,0,0.26458,0.86025506,1.3229103)">
+     transform="matrix(0.26458,0,0,0.26458,-6.2146669,-2.8645455e-6)">
     <rect
        x="73"
        y="4.3869e-05"
@@ -97,7 +126,7 @@
   </g>
   <g
      id="media-seek-forward"
-     transform="matrix(0.26458,0,0,0.26458,33.271468,7.4082619)">
+     transform="matrix(0.26458,0,0,0.26458,26.196546,6.0853487)">
     <rect
        x="0.00021085"
        y="-23"
@@ -114,7 +143,7 @@
   </g>
   <g
      id="media-seek-backward"
-     transform="matrix(-0.26458,0,0,0.26458,32.543874,7.4082619)">
+     transform="matrix(-0.26458,0,0,0.26458,25.468952,6.0853487)">
     <rect
        x="0.00021085"
        y="-23"
@@ -131,7 +160,7 @@
   </g>
   <g
      id="media-skip-forward"
-     transform="matrix(0.26458,0,0,0.26458,1.3898478,1.3229138)">
+     transform="matrix(0.26458,0,0,0.26458,-5.6850741,6.3545454e-7)">
     <rect
        x="170"
        y="3.0518e-05"
@@ -147,7 +176,7 @@
   </g>
   <g
      id="media-skip-backward"
-     transform="matrix(-0.26458,0,0,0.26458,90.619345,1.3229138)">
+     transform="matrix(-0.26458,0,0,0.26458,83.544423,6.3545454e-7)">
     <rect
        x="170"
        y="3.0518e-05"
@@ -164,7 +193,7 @@
   </g>
   <g
      id="media-eject"
-     transform="matrix(0,-0.26458,0.26458,0,52.916903,52.122282)">
+     transform="matrix(0,-0.26458,0.26458,0,45.841981,50.799369)">
     <rect
        x="170"
        y="3.0518e-05"
@@ -183,7 +212,7 @@
      y="0"
      x="0"
      id="media-playback-pause"
-     transform="translate(0.26458437,9.2604532)"
+     transform="translate(0.26458433,9.2604536)"
      width="100%"
      height="100%"
      xlink:href="#media-playback-paused" />
@@ -191,7 +220,7 @@
      y="0"
      x="0"
      id="media-playback-start"
-     transform="translate(0.06601337,9.2604531)"
+     transform="translate(0.06601337,9.2604536)"
      width="100%"
      height="100%"
      xlink:href="#media-playback-playing" />
@@ -199,7 +228,7 @@
      y="0"
      x="0"
      id="media-playback-stop"
-     transform="translate(-0.13255813,9.2604531)"
+     transform="translate(-0.13255813,9.2604536)"
      width="100%"
      height="100%"
      xlink:href="#media-playback-stopped" />
