@@ -151,12 +151,12 @@
          sodipodi:cy="10.227299"
          sodipodi:cx="-22.700836"
          sodipodi:type="arc"
-         style="fill:none;stroke:#323232;stroke-width:1.99957;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#242424;stroke-width:1.99957;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path920"
          d="m -17.750938,15.177197 a 7.0002136,7.0002136 0 0 1 -8.021771,1.3403 7.0002136,7.0002136 0 0 1 -3.875296,-7.1503353 7.0002136,7.0002136 0 0 1 5.50213,-5.9893049 7.0002136,7.0002136 0 0 1 7.452672,3.2562082" />
       <rect
          transform="rotate(15)"
-         style="fill:#323232;fill-opacity:1;stroke:none;stroke-width:2.19089;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#242424;fill-opacity:1;stroke:none;stroke-width:2.19089;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect922"
          width="6"
          height="2"
@@ -171,7 +171,7 @@
          height="2"
          width="6"
          id="rect924"
-         style="fill:#323232;fill-opacity:1;stroke:none;stroke-width:2.19089;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:#242424;fill-opacity:1;stroke:none;stroke-width:2.19089;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
   <g
