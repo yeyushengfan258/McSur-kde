@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="bar_meter_horizontal.svg"
-   id="svg31"
-   viewBox="0 0 30 30"
-   version="1.1"
+   width="30"
    height="30"
-   width="30">
+   version="1.1"
+   viewBox="0 0 30 30"
+   id="svg31"
+   sodipodi:docname="bar_meter_horizontal.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
   <metadata
      id="metadata35">
     <rdf:RDF>
@@ -26,31 +26,30 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:document-rotation="0"
-     inkscape:current-layer="svg31"
-     inkscape:window-maximized="1"
-     inkscape:window-y="38"
-     inkscape:window-x="0"
-     inkscape:cy="23.420904"
-     inkscape:cx="13.064482"
-     inkscape:zoom="31.466666"
-     showgrid="false"
-     id="namedview33"
-     inkscape:window-height="938"
-     inkscape:window-width="1920"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0"
-     guidetolerance="10"
-     gridtolerance="10"
-     objecttolerance="10"
-     borderopacity="1"
+     pagecolor="#ffffff"
      bordercolor="#666666"
-     pagecolor="#ffffff" />
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="710"
+     id="namedview33"
+     showgrid="false"
+     inkscape:zoom="15.733333"
+     inkscape:cx="17.925545"
+     inkscape:cy="16.1353"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg31" />
   <defs
      id="defs3">
     <style
-       type="text/css"
-       id="current-color-scheme">.ColorScheme-Text {
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {
         color:#31363b;
         stop-color:#31363b;
       }
@@ -96,116 +95,116 @@
       }</style>
   </defs>
   <rect
-     id="hint-tile-center"
-     y="-1.4648437e-05"
-     width="4"
-     height="4"
+     style="fill:#ff2a2a"
      x="0"
-     style="fill:#ff2a2a" />
-  <rect
-     id="hint-bar-size"
-     x="6"
+     height="4"
+     width="4"
      y="-1.4648437e-05"
-     width="6"
+     id="hint-tile-center" />
+  <rect
+     style="fill:#ff2a2a"
      height="6"
-     style="fill:#ff2a2a" />
+     width="6"
+     y="-1.4648437e-05"
+     x="6"
+     id="hint-bar-size" />
   <path
-     inkscape:connector-curvature="0"
-     d="m 17,15 v 3 c 1.662,0 3,-1.338 3,-3 z"
+     style="fill:#000000;opacity:0.25"
      id="bar-inactive-bottomright"
-     style="fill:#000000;opacity:0.25" />
+     d="m 17,15 v 3 c 1.662,0 3,-1.338 3,-3 z"
+     inkscape:connector-curvature="0" />
   <path
-     inkscape:connector-curvature="0"
-     d="m 17,12 v 2 h 3 v -2 z"
+     style="fill:#000000;opacity:0.25"
      id="bar-inactive-right"
-     style="fill:#000000;opacity:0.25" />
+     d="m 17,12 v 2 h 3 v -2 z"
+     inkscape:connector-curvature="0" />
   <path
-     inkscape:connector-curvature="0"
-     d="m 17,8 v 3 h 3 C 20,9.338 18.662,8 17,8 Z"
+     style="fill:#000000;opacity:0.25"
      id="bar-inactive-topright"
-     style="fill:#000000;opacity:0.25" />
+     d="m 17,8 v 3 h 3 C 20,9.338 18.662,8 17,8 Z"
+     inkscape:connector-curvature="0" />
   <path
-     inkscape:connector-curvature="0"
-     d="m 10,15 c 0,1.662 1.338,3 3,3 v -3 z"
+     style="fill:#000000;opacity:0.25"
      id="bar-inactive-bottomleft"
-     style="fill:#000000;opacity:0.25" />
+     d="m 10,15 c 0,1.662 1.338,3 3,3 v -3 z"
+     inkscape:connector-curvature="0" />
   <path
-     inkscape:connector-curvature="0"
-     d="m 10,12 v 2 h 3 v -2 z"
+     style="fill:#000000;opacity:0.25"
      id="bar-inactive-left"
-     style="fill:#000000;opacity:0.25" />
+     d="m 10,12 v 2 h 3 v -2 z"
+     inkscape:connector-curvature="0" />
   <path
-     inkscape:connector-curvature="0"
-     d="m 13,8 c -1.662,0 -3,1.338 -3,3 h 3 z"
+     style="fill:#000000;opacity:0.25"
      id="bar-inactive-topleft"
-     style="fill:#000000;opacity:0.25" />
+     d="m 13,8 c -1.662,0 -3,1.338 -3,3 h 3 z"
+     inkscape:connector-curvature="0" />
   <path
-     inkscape:connector-curvature="0"
-     d="m 14,15 v 3 h 2 v -3 z"
+     style="fill:#000000;opacity:0.25"
      id="bar-inactive-bottom"
-     style="fill:#000000;opacity:0.25" />
+     d="m 14,15 v 3 h 2 v -3 z"
+     inkscape:connector-curvature="0" />
   <path
-     inkscape:connector-curvature="0"
-     d="m 16,12 h -2 v 2 h 2 z"
+     style="fill:#000000;opacity:0.25"
      id="bar-inactive-center"
-     style="fill:#000000;opacity:0.25" />
+     d="m 16,12 h -2 v 2 h 2 z"
+     inkscape:connector-curvature="0" />
   <path
-     inkscape:connector-curvature="0"
-     d="m 14,8 v 3 h 2 V 8 Z"
+     style="fill:#000000;opacity:0.25"
      id="bar-inactive-top"
-     style="fill:#000000;opacity:0.25" />
+     d="m 14,8 v 3 h 2 V 8 Z"
+     inkscape:connector-curvature="0" />
   <path
-     style="color:#3daee9;fill:#ffffff;fill-opacity:1"
-     inkscape:connector-curvature="0"
+     id="bar-active-bottomright"
+     class="ColorScheme-Highlight"
      d="m 17,27 v 3 c 1.662,0 3,-1.338 3,-3 z"
-     class="ColorScheme-Highlight"
-     id="bar-active-bottomright" />
-  <path
-     style="color:#3daee9;fill:#ffffff;fill-opacity:1"
      inkscape:connector-curvature="0"
+     style="color:#3daee9;fill:#4285f4" />
+  <path
+     id="bar-active-right"
+     class="ColorScheme-Highlight"
      d="m 17,24 v 2 h 3 v -2 z"
-     class="ColorScheme-Highlight"
-     id="bar-active-right" />
-  <path
-     style="color:#3daee9;fill:#ffffff;fill-opacity:1"
      inkscape:connector-curvature="0"
+     style="color:#3daee9;fill:#4285f4" />
+  <path
+     id="bar-active-topright"
+     class="ColorScheme-Highlight"
      d="m 17,20 v 3 h 3 c 0,-1.662 -1.338,-3 -3,-3 z"
-     class="ColorScheme-Highlight"
-     id="bar-active-topright" />
-  <path
-     style="color:#3daee9;fill:#ffffff;fill-opacity:1"
      inkscape:connector-curvature="0"
+     style="color:#3daee9;fill:#4285f4" />
+  <path
+     id="bar-active-bottomleft"
+     class="ColorScheme-Highlight"
      d="m 10,27 c 0,1.662 1.338,3 3,3 v -3 z"
-     class="ColorScheme-Highlight"
-     id="bar-active-bottomleft" />
-  <path
-     style="color:#3daee9;fill:#ffffff;fill-opacity:1"
      inkscape:connector-curvature="0"
+     style="color:#3daee9;fill:#4285f4" />
+  <path
+     id="bar-active-left"
+     class="ColorScheme-Highlight"
      d="m 10,24 v 2 h 3 v -2 z"
-     class="ColorScheme-Highlight"
-     id="bar-active-left" />
-  <path
-     style="color:#3daee9;fill:#ffffff;fill-opacity:1"
      inkscape:connector-curvature="0"
+     style="color:#3daee9;fill:#4285f4" />
+  <path
+     id="bar-active-topleft"
+     class="ColorScheme-Highlight"
      d="m 13,20 c -1.662,0 -3,1.338 -3,3 h 3 z"
-     class="ColorScheme-Highlight"
-     id="bar-active-topleft" />
-  <path
-     style="color:#3daee9;fill:#ffffff;fill-opacity:1"
      inkscape:connector-curvature="0"
+     style="color:#3daee9;fill:#4285f4" />
+  <path
+     id="bar-active-bottom"
+     class="ColorScheme-Highlight"
      d="m 14,27 v 3 h 2 v -3 z"
-     class="ColorScheme-Highlight"
-     id="bar-active-bottom" />
-  <path
-     style="color:#3daee9;fill:#ffffff;fill-opacity:1"
      inkscape:connector-curvature="0"
+     style="color:#3daee9;fill:#4285f4" />
+  <path
+     id="bar-active-center"
+     class="ColorScheme-Highlight"
      d="m 16,24 h -2 v 2 h 2 z"
-     class="ColorScheme-Highlight"
-     id="bar-active-center" />
-  <path
-     style="color:#3daee9;fill:#ffffff;fill-opacity:1"
      inkscape:connector-curvature="0"
-     d="m 14,20 v 3 h 2 v -3 z"
+     style="color:#3daee9;fill:#4285f4" />
+  <path
+     id="bar-active-top"
      class="ColorScheme-Highlight"
-     id="bar-active-top" />
+     d="m 14,20 v 3 h 2 v -3 z"
+     inkscape:connector-curvature="0"
+     style="color:#3daee9;fill:#4285f4" />
 </svg>
