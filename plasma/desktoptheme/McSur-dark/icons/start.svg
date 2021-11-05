@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg22"
    viewBox="0 0 32 32"
    version="1.1"
    sodipodi:docname="start.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    width="32"
-   height="32">
+   height="32"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      pagecolor="#c8c8c8"
      bordercolor="#666666"
@@ -24,20 +24,21 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="942"
+     inkscape:window-height="962"
      id="namedview15"
      showgrid="true"
-     inkscape:zoom="10.925926"
-     inkscape:cx="-15.545206"
-     inkscape:cy="24.329765"
+     inkscape:zoom="5.462963"
+     inkscape:cx="-36.335593"
+     inkscape:cy="1.5559322"
      inkscape:window-x="0"
-     inkscape:window-y="38"
+     inkscape:window-y="40"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg22"
      inkscape:document-rotation="0"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true">
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:pagecheckerboard="0">
     <inkscape:grid
        type="xygrid"
        id="grid839" />
@@ -50,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -109,6 +110,7 @@
        x="-40" />
     <path
        id="path19"
-       d="m -30.38,-18.735 c 0.37942,-0.4724 0.63668,-1.1142 0.5657,-1.7647 -0.54648,0.02292 -1.2274,0.37958 -1.6218,0.83823 -0.34844,0.40693 -0.65797,1.0721 -0.5778,1.699 0.61327,0.04577 1.2414,-0.31032 1.6339,-0.77246 z m 1.3827,4.087 c -0.0131,-1.3911 1.1383,-2.0666 1.1904,-2.0988 -0.65139,-0.95071 -1.6614,-1.0795 -2.0175,-1.0913 -0.84882,-0.08649 -1.6705,0.51 -2.1035,0.51 -0.44068,-6.1e-5 -1.1062,-0.49968 -1.8229,-0.48547 -0.92387,0.01381 -1.789,0.54876 -2.2626,1.3772 -0.97503,1.6931 -0.24816,4.1799 0.68833,5.5452 0.46912,0.67207 1.0156,1.4201 1.7323,1.3906 0.70102,-0.026645 0.96236,-0.4451 1.8097,-0.4451 0.83842,0 1.084,0.4451 1.8155,0.43078 0.75278,-0.012344 1.2262,-0.67328 1.6791,-1.3481 0.53935,-0.76985 0.75713,-1.5246 0.76582,-1.5648 -0.01678,-0.0062 -1.4591,-0.55477 -1.4746,-2.2202 z" />
+       d="m -30.190929,-19.074776 c 0.423715,-0.515371 0.711009,-1.215552 0.631743,-1.925224 -0.610279,0.02501 -1.370692,0.414108 -1.811137,0.914479 -0.389117,0.443946 -0.734783,1.169622 -0.645254,1.853547 0.684866,0.04993 1.386326,-0.338548 1.824648,-0.842726 z m 1.544122,4.458769 c -0.01463,-1.51764 1.27119,-2.254586 1.329372,-2.289715 -0.727436,-1.03719 -1.855358,-1.177695 -2.253031,-1.190569 -0.947914,-0.09436 -1.86552,0.556392 -2.349071,0.556392 -0.492127,-6.7e-5 -1.235342,-0.545133 -2.035713,-0.52963 -1.031725,0.01507 -1.997855,0.598677 -2.526744,1.502475 -1.08886,1.847111 -0.277132,4.56012 0.768688,6.049613 0.523887,0.7332039 1.134165,1.5492775 1.934535,1.5170941 0.782861,-0.029069 1.07471,-0.485588 2.020973,-0.485588 0.9363,0 1.210549,0.485588 2.027449,0.4699654 0.840661,-0.013467 1.36935,-0.7345241 1.875124,-1.4707285 0.602316,-0.839878 0.84552,-1.663283 0.855225,-1.70714 -0.01874,-0.0068 -1.629442,-0.605234 -1.64675,-2.422158 z"
+       style="stroke-width:1.10377" />
   </g>
 </svg>
