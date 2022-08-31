@@ -1,17 +1,28 @@
 [Desktop Entry]
 Name=McSur-dark
+Comment=McSur-dark theme for plasma
+
 X-KDE-PluginInfo-Author=yeyushengfan258
+X-KDE-PluginInfo-Email=yeyushengfan258@outlook.com
+X-KDE-PluginInfo-Name=McSur-dark
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=https://github.com/yeyushengfan258/McSur-kde
 X-KDE-PluginInfo-Category=
 X-KDE-PluginInfo-Depends=
-X-KDE-PluginInfo-Email=yeyushengfan258@outlook.com
+X-KDE-PluginInfo-License=GPL 3.0
 X-KDE-PluginInfo-EnabledByDefault=true
-X-KDE-PluginInfo-License=GPL3.0
-X-KDE-PluginInfo-Name=McSur-dark
-X-KDE-PluginInfo-Version=.0.4
-X-KDE-PluginInfo-Website=
+
+[ContrastEffect]
+enabled=false
+contrast=0.2
+intensity=0.4
+saturation=1.7
 
 [Wallpaper]
 defaultWallpaperTheme=McSur-dark
-defaultFileSuffix=.png
-defaultHeight=1080
-defaultWidth=1920
+defaultFileSuffix=.jpg
+defaultWidth=3840
+defaultHeight=2400
+
+[AdaptiveTransparency]
+enabled=true
