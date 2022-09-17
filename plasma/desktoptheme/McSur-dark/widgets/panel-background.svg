@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="173"
    height="56"
    version="1.1"
    viewBox="0 0 173 56"
    id="svg200"
    sodipodi:docname="panel-background.svg"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata204">
     <rdf:RDF>
@@ -37,14 +37,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="942"
+     inkscape:window-height="936"
      id="namedview202"
      showgrid="true"
-     inkscape:zoom="10.082402"
-     inkscape:cx="65.445612"
-     inkscape:cy="28.299941"
+     inkscape:zoom="7.1293348"
+     inkscape:cx="60.875245"
+     inkscape:cy="29.455764"
      inkscape:window-x="0"
-     inkscape:window-y="38"
+     inkscape:window-y="40"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg200"
      showguides="true"
@@ -52,14 +52,18 @@
      inkscape:document-rotation="0"
      inkscape:snap-bbox="true"
      inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true">
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#cbcbcb">
     <inkscape:grid
        type="xygrid"
        id="grid914" />
     <sodipodi:guide
        id="guide69"
        orientation="0,-1"
-       position="60,61" />
+       position="60,61"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
      id="defs24">
@@ -264,7 +268,7 @@
        height="32"
        width="8.0000181"
        id="rect4152"
-       style="color:#eff0f1;opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.1547"
+       style="color:#eff0f1;opacity:0.3;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.1547"
        transform="matrix(0,-1,-1,0,0,0)"
        class="ColorScheme-Background" />
     <rect
@@ -282,7 +286,7 @@
      transform="translate(31,-904.36218)">
     <path
        sodipodi:nodetypes="cccc"
-       style="opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.66667"
+       style="opacity:0.3;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.66667"
        d="m 29,910.36218 c -8.863965,0 -16,7.13604 -16,16 h 16 z"
        id="rect4159"
        inkscape:connector-curvature="0" />
@@ -299,7 +303,7 @@
      height="12.000099"
      width="12.000099"
      id="center"
-     style="color:#eff0f1;opacity:0.25;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3750031" />
+     style="color:#eff0f1;opacity:0.3;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3750031" />
   <rect
      style="fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.7070992"
      id="hint-top-margin"
