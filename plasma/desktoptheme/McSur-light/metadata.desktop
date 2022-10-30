@@ -20,9 +20,9 @@ saturation=1.7
 
 [Wallpaper]
 defaultWallpaperTheme=McSur-light
-defaultFileSuffix=.jpg
-defaultWidth=3840
-defaultHeight=2400
+defaultFileSuffix=.png
+defaultWidth=2560
+defaultHeight=1440
 
 [AdaptiveTransparency]
 enabled=true
