@@ -1,5 +1,5 @@
-[kdeglobals][KDE]
-widgetStyle=kvantum
+[kcminputrc][Mouse]
+cursorTheme=WinSur-dark-cursors
 
 [kdeglobals][General]
 ColorScheme=McSurDark
@@ -7,8 +7,14 @@ ColorScheme=McSurDark
 [kdeglobals][Icons]
 Theme=BigSur
 
-[plasmarc][Theme]
-name=McSur-dark
+[kdeglobals][KDE]
+widgetStyle=kvantum
+
+[kwinrc][DesktopSwitcher]
+LayoutName=org.kde.breeze.desktop
+
+[kwinrc][WindowSwitcher]
+LayoutName=org.kde.breeze.desktop
 
 [kwinrc][org.kde.kdecoration2]
 ButtonsOnLeft=XAI
@@ -16,5 +22,5 @@ ButtonsOnRight=
 library=org.kde.kwin.aurorae
 theme=__aurorae__svg__McSur-dark
 
-[kcminputrc][Mouse]
-cursorTheme=breeze_cursors
+[plasmarc][Theme]
+name=McSur-dark
